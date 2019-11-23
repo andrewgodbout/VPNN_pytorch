@@ -4,13 +4,26 @@
 
 ![](VPNN.png)
 
+A neural network architecture that is fully volume preserving including the coupled chebyshev volume preserving activation function.
+
 This is the implementation of the paper:
 
-G. MacDonald, A. Godbout, B. Gillcash, and S. Cairns. Volume Preserving Neural Networks: A Solution to the Vanishing Gradient Problem. 
+G. MacDonald, A. Godbout, B. Gillcash, and S. Cairns. Volume Preserving Neural Networks: A Solution to the Vanishing Gradient Problem. (2019)
 
-link to paper (coming)
+link to paper (arXix preprint): https://arxiv.org/abs/1911.09576
 
-If you use this code, please cite. (citation coming)
+If you use this code, please cite (arXiv preprint):
+
+```
+@misc{macdonald2019volumepreserving,
+    title={Volume-preserving Neural Networks: A Solution to the Vanishing Gradient Problem},
+    author={Gordon MacDonald and Andrew Godbout and Bryn Gillcash and Stephanie Cairns},
+    year={2019},
+    eprint={1911.09576},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+```
 
 
 ## Getting Started ###
